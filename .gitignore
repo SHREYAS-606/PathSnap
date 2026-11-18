@@ -11,3 +11,8 @@ data/features/*
 __pycache__/
 .ipynb_checkpoints/
 .env
+data/
+
+
+# Large trained model artifacts
+outputs/model_results/*.joblib
